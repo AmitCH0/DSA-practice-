@@ -1,0 +1,1 @@
+This repository contains a collection of practice questions and detailed learnings that I have gathered while honing my skills in Data Structures and Algorithms (DSA). It includes problems from various online platforms, solutions, and explanations, as well as notes and resources that have been useful in my learning journey.
